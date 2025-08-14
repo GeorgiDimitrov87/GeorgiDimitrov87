@@ -1,15 +1,4 @@
 ### Hey there 
-<a href="https://www.instagram.com/gdimitrovau/">
-  <img align="left" alt="Georgi's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://twitter.com/jorjodimitrov">
-  <img align="left" alt="Georgi Dimitrov | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/georgi-dimitrov/">
-  <img align="left" alt="Georgi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<br />
 
 My name is Georgi Dimitrov, I am hard working, self-driven full stack web developer and a freelance software engineer from Bulgaria. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
